@@ -1,0 +1,5 @@
+env/git rm --cached Medical_Agent
+progress
+temp/
+.env
+__pycache__/

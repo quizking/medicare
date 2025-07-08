@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-generativeai
+google-api-core
+requests
+beautifulsoup4
+duckduckgo-search
